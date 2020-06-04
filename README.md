@@ -5,7 +5,7 @@ The Streamlit app is implemented in only 150 lines of Python and demonstrates th
 
 ![In-use Animation](https://github.com/streamlit/demo-face-gan/blob/master/GAN-demo.gif?raw=true "In-use Animation")
 
-## How to run this demo
+## How to run this application
 The demo requires Python 3.6 (TensorFlow is not yet compatible with later versions). **We suggest creating a new virtual Python 3.6 environment**, then running:
 
 ```
@@ -15,6 +15,3 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### Questions? Comments?
-
-Please ask in the [Streamlit community](https://discuss.streamlit.io) or [check out our article](https://towardsdatascience.com/build-an-app-to-synthesize-photorealistic-faces-using-tensorflow-and-streamlit-dd2545828021).
