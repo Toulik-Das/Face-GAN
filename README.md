@@ -10,7 +10,6 @@ The demo requires Python 3.6 (TensorFlow is not yet compatible with later versio
 
 ```
 git clone https://github.com/Toulik-Das/Face-GAN.git
-cd demo-face-gan
 pip install -r requirements.txt
 streamlit run app.py
 ```
