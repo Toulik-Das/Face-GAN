@@ -9,7 +9,7 @@ The Streamlit app is implemented in only 150 lines of Python and demonstrates th
 The demo requires Python 3.6 (TensorFlow is not yet compatible with later versions). **We suggest creating a new virtual Python 3.6 environment**, then running:
 
 ```
-git clone https://github.com/streamlit/demo-face-gan.git
+git clone https://github.com/Toulik-Das/Face-GAN.git
 cd demo-face-gan
 pip install -r requirements.txt
 streamlit run app.py
