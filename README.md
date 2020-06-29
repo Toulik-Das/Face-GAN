@@ -1,4 +1,4 @@
-# Streamlit Demo: The Controllable GAN Face Generator
+# The Controllable GAN Face Generator
 This project highlights Streamlit's new `hash_func` feature with an app that calls on TensorFlow to generate photorealistic faces, using Nvidia's [Progressive Growing of GANs](https://research.nvidia.com/publication/2017-10_Progressive-Growing-of) and Shaobo Guan's [Transparent Latent-space GAN](https://blog.insightdatascience.com/generating-custom-photo-realistic-faces-using-ai-d170b1b59255) method for tuning the output face's characteristics.
 
 The Streamlit app is implemented in only 150 lines of Python and demonstrates the wide new range of objects that can be used safely and efficiently in Streamlit apps with `hash_func`. 
